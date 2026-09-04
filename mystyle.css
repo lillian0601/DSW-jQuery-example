@@ -1,10 +1,10 @@
 body{
-    background-color: lightblue;
+    background-color: MistyRose;
 }
 
 p{
     font-size: 200%;
-    color: DarkBlue;
+    color: HotPink;
 }
 
 img{
@@ -13,10 +13,13 @@ img{
 }
 
 .bright{
-	color: red;
-	background-color: yellow;
+	color: white;
+	background-color: Pink;
 }
 
 .border{
 	border: 25px solid black;
+}
+h1 {
+	color: HotPink;
 }

@@ -6,4 +6,10 @@ $(document).ready(function() {
 		$("p").addClass("bright");
 		$("img").addClass("border");
 	});
+	$("#p1").click(function(){
+		$(".disappear").hide();
+	});
+	$("h1").hover(function() {
+		$(this).css("color", "DarkMagenta");
+	});
 });
